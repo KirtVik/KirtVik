@@ -21,8 +21,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KirtVik&" alt="KirtVik" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KirtVik" alt="KirtVik" /></a></p>
-<picture>
+<p><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KirtVik/KirtVik/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KirtVik/KirtVik/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KirtVik/KirtVik/output/pacman-contribution-graph.svg">
-</picture>
+</picture></p>
